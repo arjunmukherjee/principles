@@ -47,5 +47,5 @@ Some simple principles I believe in and practice everyday
 		- Try and plant a seed estimation from a previous sprint during estimation of new stories
 	- Dedicate time to conduct a productive **Retrospective**, do not let it devolve into an hour of venting
 	- **Pair**: It is a great way to reduce the bad aspects of code ownership ("That's not my code, it's his/her"), and a great way to spread knowledge among members of the team.
-12. **Don't fear** failure, i.e. don't be afraid to break things.. Caveat: as long as you learn from from every such instance.
+12. **Don't fear** failure, i.e. don't be afraid to break things.. Caveat: as long as you learn from every such instance.
 13. Boy scout rule, DRY, KISS, SRP
